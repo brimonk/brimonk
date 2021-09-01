@@ -17,7 +17,3 @@ compiler's output.
 * [**Asteroids**](https://github.com/brimonk/Asteroids) is just a small asteroid clone I made with SDL. Every now and again, I have the desire to become a games programmer, so I dabble a little bit.
 * [**MOL(T)**](https://github.com/brimonk/molt) is an acceleration and optimization of mathematics discovered at MSU by Causley, Christlieb, et al.
 
-## Contributions
-
-[![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brimonk&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
