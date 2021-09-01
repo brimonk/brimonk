@@ -13,5 +13,5 @@ compiler's output.
 
 ## Contributions
 
-[![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brimonk)](https://github.com/anuraghazra/github-readme-stats)
+[![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brimonk&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
