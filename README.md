@@ -10,6 +10,9 @@ compiler's output.
 **In Progress**
 
 * [**recipes.chrzanowski.me**](https://github.com/brimonk/recipes) is my own take at a high performance web UI and backend system. It is in active development.
+* **supply chain management software**. I'm working on a project with some friends to help give
+  college students a simulated experience at some day to day operations of their careers. This
+  project is also in deep development.
 
 **Finished**
 
