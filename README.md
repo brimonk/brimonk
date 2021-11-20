@@ -13,6 +13,7 @@ compiler's output.
 * **supply chain management software**. I'm working on a project with some friends to help give
   college students a simulated experience at some day to day operations of their careers. This
   project is also in deep development.
+* **Smart Plugs**. After a fiasco with horrible Terms and Conditions, and a Chinese Smart Plug, I decided that it would behoove me to just make some of my own, as a Christmas gift. It is in active development.
 
 **Finished**
 
